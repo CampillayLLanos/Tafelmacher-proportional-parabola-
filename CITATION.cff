@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite this software archive and the associated article."
+title: "Tafelmacher's parabola in proportional arithmetic: Python figures"
+type: software
+authors:
+  - family-names: "Campillay-Llanos"
+    given-names: "William"
+  - family-names: "Cárcamo-Mansilla"
+    given-names: "Noemí"
